@@ -83,5 +83,6 @@ LIRI is like Iphone's SIRI. However, while SIRI is a Speech Interpretation and R
         * It should run concert-this for "Luke Combs"
 
 # Video of Working LIRI:
-
-  https://drive.google.com/file/d/14gIB3AaDhAJyTDBLLAKl2U6MsgDmo37x/view?usp=sharing
+  * Link for video demo of LIRI:
+  
+        * https://drive.google.com/file/d/14gIB3AaDhAJyTDBLLAKl2U6MsgDmo37x/view?usp=sharing
